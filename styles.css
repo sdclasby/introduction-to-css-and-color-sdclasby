@@ -37,7 +37,15 @@ header h1, main h2 {
 main p {
     color: #ff9800;
 }
+/* Introduction section */
+.intro {
+    color: #ff9800; /* Color for the brief introduction */
+}
 
+/* Hobby section */
+.hobby {
+    color: #1e90ff; /* Color for the paragraph about your hobby */
+}
 /* Contact Page Styles */
 form label {
     color: #008cba;
